@@ -31,5 +31,5 @@ print("data:", data_str, "tipenya adalah",
     type(data_str))
 print("data", data_bool, "tipenya adalah", 
     type(data_bool))
-print("data:", data_float, "tipenya adalah",
+print("data:", data_float, "tipenya addlah",
     type(data_float))
