@@ -4,19 +4,19 @@ a = 11
 b = 5
 
 # Operasi tambah +
-hasil = a + b 
+hasil = a + b
 print(a, "+", b, "=", hasil)
 
 # Operasi pengurangan -
-hasil = a - b 
+hasil = a - b
 print(a, "-", b, "=", hasil)
 
 # Operasi perkalian *
-hasil = a * b 
+hasil = a * b
 print(a, "*", b, "=", hasil)
 
 # Operasi perkalian /
-hasil = a / b 
+hasil = a / b
 print(a, "/", b, "=", hasil)
 
 # Operasi eksponen (pangkat) **
@@ -30,3 +30,17 @@ print(a, "modulus", b, "=", hasil)
 # Operasi floor devision //
 hasil = a // b
 print(a, "//", b, "=", hasil)
+
+'''
+    Prioritas operasi
+    ()
+    eksponen **
+    perkalian dan teman-teman * / % //
+    pertambahan dan teman-teman + -
+'''
+x = 2
+y = 5
+z = 3
+
+hasil = z * y ** x
+print(z, 'x', y, '**', x, 'hasil =', hasil)
