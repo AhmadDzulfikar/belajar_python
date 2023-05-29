@@ -13,7 +13,7 @@ data_float = float(data_str)
 data_bool = bool(data_str)
 print("data:", data_int, "tipenya adalah", 
     type(data_int))
-print("data:", data_float, "tipenya adalah", 
+print("data:", data_float, "tipenqya adalah", 
     type(data_float))
 print("data:", data_bool, "tipenya adalah", 
     type(data_bool)) #kalo misal data aslinya string hasilnya jadi true
