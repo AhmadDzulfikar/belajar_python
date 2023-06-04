@@ -15,4 +15,4 @@ print("suhu celcius dalam fahrenheit adalah : ", fahrenheit, "F")
 
 #kelvin
 kelvin = celcius + 273 
-print("suhu celcius dalam kelvin adalah : ", kelvin, "K")
+print("suhu celciusd dalam kelvin adalah : ", kelvin, "K")
