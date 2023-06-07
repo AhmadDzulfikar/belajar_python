@@ -2,7 +2,7 @@
 
 # 2.) + + + + + 0 - - - - - 5 + + + + + 8 - - - - - 11 + + + + + +
 
-'''KERJAKAN!!!
+'''KERJAKAN!!
         1.)'''
 
 inputUser = float(input("Masukkan angka yang bernilai \n lebih dari 0 dan kurang dari 5 \n atau \n lebih dari 8 dan kurang dari 11 \n :"))
