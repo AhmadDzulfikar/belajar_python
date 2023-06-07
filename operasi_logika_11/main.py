@@ -51,7 +51,7 @@ c = a and b
 print(a, 'And', b, '  =', c)
 
 # XOR
-print('\n ====== XOR ======') # semisal A & B nya beda hasilnya true
+print('\n ====== XOR =======') # semisal A & B nya beda hasilnya true
 a = False 
 b = False
 c = a ^ b
