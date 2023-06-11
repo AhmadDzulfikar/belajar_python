@@ -1,6 +1,6 @@
 # Operator bitwise, operasi biner, binary
 
-# OR (|), AND (&), XOR (^), NOT(~)
+# OR (|), AND (&), XOR (^), NOT(~).
 
 a = 5
 b = 7
