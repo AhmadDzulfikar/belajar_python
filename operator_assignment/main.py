@@ -95,3 +95,14 @@ print('nilai c:', c)
 c ^= True
 print('nilai c ^= True, nilai c menjadi: ', c)
 
+# Geser
+print('\n======== GESER ========')
+d = 0b010010
+print('nilai :',d, format(d, '06b'))
+d >>= 3
+print("nilai :", d, 'binary :', format(d, '06b'))
+
+d <<= 3
+print("nilai :", d, "binary :", format(d, '06b'))
+
+
