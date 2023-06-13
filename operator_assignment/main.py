@@ -76,4 +76,22 @@ print('nilai c:', c)
 c &= True
 print('nilai c &= True, nilai c menjadi:', c)
 
+# XOR
+print('\n======== XOR ========')
+c = True
+print('nilai c:', c)
+c ^= False
+print('nilai c ^= False, nilai c menjadi: ', c)
+c = False
+print('nilai c:', c)
+c ^= False
+print('nilai c ^= False, nilai c menjadi: ', c)
+c = False
+print('nilai c:', c)
+c ^= True
+print('nilai c ^= True, nilai c menjadi: ', c)
+c = True
+print('nilai c:', c)
+c ^= True
+print('nilai c ^= True, nilai c menjadi: ', c)
 
