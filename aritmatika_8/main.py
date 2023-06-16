@@ -44,3 +44,5 @@ z = 3
 
 hasil = z * y ** x
 print(z, 'x', y, '**', x, 'hasil =', hasil)
+
+#test
