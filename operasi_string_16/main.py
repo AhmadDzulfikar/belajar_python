@@ -53,3 +53,5 @@ print('char untuk ASCII 122 adalah ' + chr(data))
 data = "udil surbakti"
 jumlah = data.count('u')
 print("jumlah u pada", data, 'adalah', jumlah)
+
+#test
