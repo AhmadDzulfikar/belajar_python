@@ -59,3 +59,6 @@ print("nilai :", c, 'binary :', format(c, '08b'))
 
 
 #test
+
+
+#test
