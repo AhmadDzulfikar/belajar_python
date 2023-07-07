@@ -1,7 +1,7 @@
 # operasi aritmatika
 
-a = 11
-b = 5
+a = 210
+b = 100
 
 # Operasi tambah +
 hasil = a + b
@@ -25,7 +25,7 @@ print(a, "pangkat", b, "=", hasil)
 
 # Operasi modulus (sisa pembagian) %
 hasil = a % b
-print(a, "modulus", b, "=", hasil)
+print(a, "modulus (%)", b, "=", hasil)
 
 # Operasi floor devision //
 hasil = a // b
