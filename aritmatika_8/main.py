@@ -1,7 +1,7 @@
 # operasi aritmatika
 
-a = 210
-b = 100
+a = 21
+b = 5
 
 # Operasi tambah +
 hasil = a + b
