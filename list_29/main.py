@@ -42,3 +42,7 @@ print(list_pake_for_if_ganjil)
 # membuat list pake for pake if ganjil kuadrat
 list_pake_for_if_genap = [i**2 for i in range(0,10) if i%2 != 0]
 print(list_pake_for_if_genap)
+
+
+
+#tess
