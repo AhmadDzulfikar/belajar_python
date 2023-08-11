@@ -19,3 +19,5 @@ print("Nomor =", numbers, "type:", type(numbers))
 biner = bool(int(input("Masukkan nilai biner:"))) #dikasih tipedata int biar angka 0 bisa menjadi false
 
 print("Nilai =", biner, "bertipe =", type(biner))
+
+# etst
