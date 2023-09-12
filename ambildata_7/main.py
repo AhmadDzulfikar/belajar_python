@@ -10,7 +10,7 @@ numbers = int(input("Masukkan angka:"))
 
 print("Nomor =", numbers, "type:", type(numbers))
 
-#cara input data float
+#cara input data 
 numbers = float(input("Masukkan angka:"))
 
 print("Nomor =", numbers, "type:", type(numbers))

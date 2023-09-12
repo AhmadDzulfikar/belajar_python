@@ -1,7 +1,7 @@
 # operasi aritmatika
 
-a = 21
-b = 5
+a = 3300
+b = 3600
 
 # Operasi tambah +
 hasil = a + b
@@ -20,8 +20,8 @@ hasil = a / b
 print(a, "/", b, "=", hasil)
 
 # Operasi eksponen (pangkat) **
-hasil = a ** b
-print(a, "pangkat", b, "=", hasil)
+# hasil = a ** b
+# print(a, "pangkat", b, "=", hasil)
 
 # Operasi modulus (sisa pembagian) %
 hasil = a % b

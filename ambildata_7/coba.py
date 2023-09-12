@@ -1,6 +1,6 @@
 #form input
 nama = input("Masukkan nama anda = ")
-tgl_lahir = int(input("Masukkan tanggal lahir anda = "))
+tgl_lahir = (input("Masukkan tanggal lahir anda = "))
 bln_lahir = input("Masukkan bulan lahir anda = ")
 thn_lahir = int(input("Masukkan tahun lahir anda = "))
 
